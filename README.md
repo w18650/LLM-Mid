@@ -49,7 +49,6 @@ bash scripts/run.sh
 ## 项目结构
 
 ```
-.
 ├── src/
 │   ├── transformer.py     
 │   ├── dataloader.py     
